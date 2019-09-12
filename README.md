@@ -12,11 +12,11 @@ Sistem Informasi Presensi Karyawan - Erporate Corp untuk Seleksi Bootcamp Web De
 5. CRUD Data Karyawan
 6. History Presensi Karyawan (Masuk - Pulang) dan Jam kerja
 
-<b>Demo User HRD :</b>
+<b>Demo User HRD :</b><br />
 Email : fuad@demo.isc.id
 Password : 1234
 
-<b>Demo User Karyawan :</b>
+<b>Demo User Karyawan :</b><br />
 Pilih user pada form login, no password.
 
 <b>Screenshot</b>
